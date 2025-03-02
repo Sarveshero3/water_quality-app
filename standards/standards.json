@@ -1,0 +1,33 @@
+{
+    "WHO": {
+      "pH": {"min": 6.5, "max": 8.5},
+      "Hardness": {"max": 300},
+      "Chloramines": {"max": 4},
+      "Sulfate": {"max": 250},
+      "Conductivity": {"max": 500},
+      "Organic_carbon": {"max": 10},
+      "Trihalomethanes": {"max": 100},
+      "Turbidity": {"max": 5}
+    },
+    "EPA": {
+      "pH": {"min": 6.5, "max": 8.5},
+      "Hardness": {"max": 300},
+      "Chloramines": {"max": 4},
+      "Sulfate": {"max": 250},
+      "Conductivity": {"max": 500},
+      "Organic_carbon": {"max": 10},
+      "Trihalomethanes": {"max": 80},
+      "Turbidity": {"max": 1}
+    },
+    "BIS": {
+      "pH": {"min": 6.5, "max": 8.5},
+      "Hardness": {"max": 300},
+      "Chloramines": {"max": 4},
+      "Sulfate": {"max": 250},
+      "Conductivity": {"max": 500},
+      "Organic_carbon": {"max": 10},
+      "Trihalomethanes": {"max": 100},
+      "Turbidity": {"max": 5}
+    }
+  }
+  
